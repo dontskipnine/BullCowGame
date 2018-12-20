@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Section02
+//  BullCowGame
 //
 //  Created by Zachary Taylor on 11/25/18.
 //  Copyright © 2018 Zachary Taylor. All rights reserved.
